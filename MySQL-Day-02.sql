@@ -7,8 +7,8 @@ column, the more expensive the operation becomes.
 
 -- Benefits:
 
--- -   SELECT operations become faster
--- -   Searching becomes efficient
+-- SELECT operations become faster
+-- Searching becomes efficient
 
 -- Drawback:
 
