@@ -1,4 +1,4 @@
--- INDEX (B-Tree Data Structure)
+--INDEX (B-Tree Data Structure)
 
 An Index is used to find values within a specific column more quickly.
 
